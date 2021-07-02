@@ -1,7 +1,11 @@
-     {"time":"july1 /2021",
+{ "time": 1July/2021,
+    "aapp": [
+        {
             "killed": "၈၈၅",
             "totalA": "၆၄၆၂",
             "stillD":"၅၁၈၃",
             "issuedW":"၁၉၆၀"
             
         }
+    ]
+}
