@@ -1,83 +1,53 @@
-{"konyi": [
-        {
-            "title": "Crash Landing on You (အပိုင်း 1)",
-            "image": "https:\/\/i.imgur.com\/ELZydj0.jpeg",
-            "video": "https:\/\/mycinema.asia\/media\/series\/Crash.Landing.on.You.2019\/ep1_720\/ep1_720.m3u8"
-        },
-        {
-            "title": "Crash Landing on You (အပိုင်း 2)",
-            "image": "https:\/\/i.imgur.com\/ELZydj0.jpeg",
-            "video": "https:\/\/mycinema.asia\/media\/series\/Crash.Landing.on.You.2019\/ep2_720\/ep2_720.m3u8"
-        },
-        {
-            "title": "Crash Landing on You (အပိုင်း 3)",
-            "image": "https:\/\/i.imgur.com\/ELZydj0.jpeg",
-            "video": "https:\/\/mycinema.asia\/media\/series\/Crash.Landing.on.You.2019\/ep3_720\/ep3_720.m3u8"
-        },
-        {
-            "title": "Crash Landing on You (အပိုင်း 4)",
-            "image": "https:\/\/i.imgur.com\/ELZydj0.jpeg",
-            "video": "https:\/\/mycinema.asia\/media\/series\/Crash.Landing.on.You.2019\/ep4_720\/ep4_720.m3u8"
-        },
-        {
-            "title": "Crash Landing on You (အပိုင်း 5)",
-            "image": "https:\/\/i.imgur.com\/ELZydj0.jpeg",
-            "video": "https:\/\/mycinema.asia\/media\/series\/Crash.Landing.on.You.2019\/ep5_720\/ep5_720.m3u8"
-        },
-        {
-            "title": "Crash Landing on You (အပိုင်း 6)",
-            "image": "https:\/\/i.imgur.com\/ELZydj0.jpeg",
-            "video": "https:\/\/mycinema.asia\/media\/series\/Crash.Landing.on.You.2019\/ep6_720\/ep6_720.m3u8"
-        },
-        {
-            "title": "Crash Landing on You (အပိုင်း 7)",
-            "image": "https:\/\/i.imgur.com\/ELZydj0.jpeg",
-            "video": "https:\/\/mycinema.asia\/media\/series\/Crash.Landing.on.You.2019\/ep7_720\/ep7_720.m3u8"
-        },
-        {
-            "title": "Crash Landing on You (အပိုင်း 8)",
-            "image": "https:\/\/i.imgur.com\/ELZydj0.jpeg",
-            "video": "https:\/\/mycinema.asia\/media\/series\/Crash.Landing.on.You.2019\/ep8_720\/ep8_720.m3u8"
-        },
-        {
-            "title": "Crash Landing on You (အပိုင်း 9)",
-            "image": "https:\/\/i.imgur.com\/ELZydj0.jpeg",
-            "video": "https:\/\/mycinema.asia\/media\/series\/Crash.Landing.on.You.2019\/ep9_720\/ep9_720.m3u8"
-        },
-        {
-            "title": "Crash Landing on You (အပိုင်း 10)",
-            "image": "https:\/\/i.imgur.com\/ELZydj0.jpeg",
-            "video": "https:\/\/mycinema.asia\/media\/series\/Crash.Landing.on.You.2019\/ep10_720\/ep10_720.m3u8"
-        },
-        {
-            "title": "Crash Landing on You (အပိုင်း 11)",
-            "image": "https:\/\/i.imgur.com\/ELZydj0.jpeg",
-            "video": "https:\/\/mycinema.asia\/media\/series\/Crash.Landing.on.You.2019\/ep11_720\/ep11_720.m3u8"
-        },
-        {
-            "title": "Crash Landing on You (အပိုင်း 12)",
-            "image": "https:\/\/i.imgur.com\/ELZydj0.jpeg",
-            "video": "https:\/\/mycinema.asia\/media\/series\/Crash.Landing.on.You.2019\/ep12_720\/ep12_720.m3u8"
-        },
-        {
-            "title": "Crash Landing on You (အပိုင်း 13)",
-            "image": "https:\/\/i.imgur.com\/ELZydj0.jpeg",
-            "video": "https:\/\/mycinema.asia\/media\/series\/Crash.Landing.on.You.2019\/ep13_720\/ep13_720.m3u8"
-        },
-        {
-            "title": "Crash Landing on You (အပိုင်း 14)",
-            "image": "https:\/\/i.imgur.com\/ELZydj0.jpeg",
-            "video": "https:\/\/mycinema.asia\/media\/series\/Crash.Landing.on.You.2019\/ep14_720\/ep14_720.m3u8"
-        },
-        {
-            "title": "Crash Landing on You (အပိုင်း 15)",
-            "image": "https:\/\/i.imgur.com\/ELZydj0.jpeg",
-            "video": "https:\/\/mycinema.asia\/media\/series\/Crash.Landing.on.You.2019\/ep15_720\/ep15_720.m3u8"
-        },
-        {
-            "title": "Crash Landing on You (အပိုင်း 16)",
-            "image": "https:\/\/i.imgur.com\/ELZydj0.jpeg",
-            "video": "https:\/\/mycinema.asia\/media\/series\/Crash.Landing.on.You.2019\/ep16_720\/ep16_720.m3u8"
-        }
-    ]
+{
+"knserver":[
+   {
+"name":" Singapore1 ",
+   "flag":"sg",
+   "serverhost":"165.22.255.179",
+   "sshport":"550",
+   "username":"fuckyousniffer",
+   "password":"fuckyousniffer"
+},
+ {
+   "name":" Singapore2 ",
+   "flag":"sg",
+   "serverhost":"165.22.255.179",
+   "sshport":"550",
+   "username":"fuckyousniffer2",
+   "password":"fuckyousniffer"
+},
+{
+   "name":" Singapore 3",
+   "flag":"sg",
+   "serverhost":"165.22.255.179",
+   "sshport":"550",
+   "username":"fuckyousniffer3",
+   "password":"fuckyousniffer"
+},
+{
+   "name":" Singapore4 ",
+   "flag":"sg",
+   "serverhost":"165.22.255.179",
+   "sshport":"550",
+   "username":"fuckyousniffer4",
+   "password":"fuckyousniffer"
+},
+{
+   "name":" Singapore5 ",
+   "flag":"sg",
+   "serverhost":"165.22.255.179",
+   "sshport":"550",
+   "username":"fuckyousniffer5",
+   "password":"fuckyousniffer"
+},
+{
+   "name":" Singapore6 ",
+   "flag":"sg",
+   "serverhost":"165.22.255.179",
+   "sshport":"550",
+   "username":"fuckyousniffer6",
+   "password":"fuckyousniffer"
 }
+]
+}
+   
