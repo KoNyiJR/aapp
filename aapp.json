@@ -17,32 +17,32 @@
    "password":"fuckyousniffer"
 },
 {
-   "name":" Singapore 3",
-   "flag":"sg",
+   "name":"United States",
+   "flag":"us",
    "serverhost":"165.22.255.179",
    "sshport":"550",
    "username":"fuckyousniffer3",
    "password":"fuckyousniffer"
 },
 {
-   "name":" Singapore4 ",
-   "flag":"sg",
+   "name":" Japan",
+   "flag":"jp",
    "serverhost":"165.22.255.179",
    "sshport":"550",
    "username":"fuckyousniffer4",
    "password":"fuckyousniffer"
 },
 {
-   "name":" Singapore5 ",
-   "flag":"sg",
+   "name":" Malay....",
+   "flag":"my",
    "serverhost":"165.22.255.179",
    "sshport":"550",
    "username":"fuckyousniffer5",
    "password":"fuckyousniffer"
 },
 {
-   "name":" Singapore6 ",
-   "flag":"sg",
+   "name":" H K ( GCP )",
+   "flag":"hk",
    "serverhost":"165.22.255.179",
    "sshport":"550",
    "username":"fuckyousniffer6",
