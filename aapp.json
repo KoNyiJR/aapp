@@ -1,8 +1,8 @@
 {
-"version":"1.0",
+"version":"1.1",
 "knserver":[
    {
-"name":" Singapore1 ",
+"name":" Singapore(By KNJR)",
    "flag":"sg",
    "serverhost":"165.22.255.179",
    "sshport":"550",
@@ -10,7 +10,7 @@
    "password":"fuckyousniffer"
 },
  {
-   "name":" Singapore2 ",
+   "name":" Singapore2 (GCP 😍)",
    "flag":"sg",
    "serverhost":"165.22.255.179",
    "sshport":"550",
