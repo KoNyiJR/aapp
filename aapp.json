@@ -1,5 +1,5 @@
 {
-"version":"1.3",
+"version":"1.0",
 "knserver":[
    {
 "name":" Korea",
@@ -38,7 +38,7 @@
    "flag":"jp",
    "serverhost":"165.22.255.179",
    "sshport":"550",
-   "username":"fuckyousniffer4",
+   "username":"fuckyousniffer",
    "password":"fuckyousniffer"
 },
 {
