@@ -1,5 +1,5 @@
 {
-"version":"1.2",
+"version":"1.3",
 "knserver":[
    {
 "name":" Korea",
@@ -9,7 +9,15 @@
    "username":"fuckyousniffer",
    "password":"fuckyousniffer"
 },
- {
+{
+"name":" Myanmar",
+   "flag":"mm",
+   "serverhost":"165.22.255.179",
+   "sshport":"550",
+   "username":"fuckyousniffer",
+   "password":"fuckyousniffer"
+},
+{
    "name":" Singapore2 ( GCP )",
    "flag":"sg",
    "serverhost":"165.22.255.179",
